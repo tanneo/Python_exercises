@@ -4,7 +4,7 @@
 #when in doubt print test variable at top and bottom of while loop to see what it is doing
 
 
-
+#need to finish exercises
 while i < num:
     print(f"At the top i is {i}")
     numbers.append(i)
